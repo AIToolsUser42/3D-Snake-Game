@@ -1,0 +1,5 @@
+{
+  "name": "Cubic Snake 3D",
+  "description": "A 3D Snake game played on the surface of a rotating cube. Navigate across faces, eat food, and grow without hitting yourself or stopping!",
+  "requestFramePermissions": []
+}
